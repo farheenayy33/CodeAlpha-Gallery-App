@@ -31,14 +31,6 @@ A modern, responsive image gallery built with **React**, **TypeScript**, **Vite*
 
 ---
 
-## 📸 Preview
-
-> Add screenshots here after deployment.
-
-```
-assets/
-  screenshot-home.png
-```
 
 ---
 
