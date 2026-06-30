@@ -36,7 +36,7 @@ A modern, responsive image gallery built with **React**, **TypeScript**, **Vite*
 
 ## 🚀 Live Demo
 
-🔗 **Live Site:** *Coming Soon*
+🔗 **Live Site:** https://image-gallery-app-ts.netlify.app/
 
 ---
 
