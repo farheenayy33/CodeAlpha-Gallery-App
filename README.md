@@ -1,32 +1,142 @@
-# React + TypeScript + Vite
+# 🖼️ CodeAlpha Gallery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive image gallery built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. The application provides a clean and interactive interface for browsing images with a focus on performance, responsive design, and smooth user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 📱 Fully responsive design
+- 🖼️ Modern image gallery layout
+- ⚡ Fast performance with Vite
+- 🎨 Clean and intuitive UI
+- 🔍 Optimized image rendering
+- 📂 Component-based architecture
+- 💻 Cross-browser compatibility
+- 🚀 Production-ready deployment
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+### Frontend
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+### Development Tools
+- ESLint
+- npm
+
+---
+
+## 📸 Preview
+
+> Add screenshots here after deployment.
+
+```
+assets/
+  screenshot-home.png
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+---
+
+## 🚀 Live Demo
+
+🔗 **Live Site:** *Coming Soon*
+
+---
+
+## 📂 Repository
+
+GitHub Repository:
+
+https://github.com/farheenayy33/CodeAlpha-Gallery-App
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/farheenayy33/CodeAlpha-Gallery-App.git
+```
+
+Navigate into the project:
+
+```bash
+cd CodeAlpha-Gallery-App
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🏗️ Build for Production
+
+```bash
+npm run build
+```
+
+Preview the production build:
+
+```bash
+npm run preview
+```
+
+---
+
+## 📁 Project Structure
+
+```
+CodeAlpha-Gallery-App
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.tsx
+│   └── main.tsx
+│
+├── package.json
+├── vite.config.ts
+└── README.md
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push your branch
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+### Created with ❤️ by **Farheen Laraib**
+
+</div>
